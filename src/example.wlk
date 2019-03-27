@@ -4,6 +4,6 @@ object wollok {
 	}
 	
 	method estoEsOtroMetodoQueNoTenian() {
-		return 87
+		return "JAJA"	
 	}
 }
